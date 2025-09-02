@@ -1,0 +1,5 @@
+{
+  "name": "React Calculator",
+  "description": "A modern and functional web-based calculator built with React and Tailwind CSS, inspired by iOS design. It's perfect for deploying on services like GitHub Pages.",
+  "requestFramePermissions": []
+}
